@@ -47,4 +47,13 @@ The Digital Clock is a Java GUI application that shows the current system time a
 - Date and Time formatting
 - Event handling
 - Object-Oriented Programming (OOP)
-✨ Future Improvements
+
+##✨ Future Improvements
+
+- Add alarm feature
+- Add star background animation
+- Add 12-hour format (AM/PM)
+- Add sound effects
+- Add theme switch (dark/light mode)
+- Add stopwatch and timer modes
+
