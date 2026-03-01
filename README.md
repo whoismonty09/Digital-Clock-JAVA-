@@ -40,6 +40,8 @@ The Digital Clock is a Java GUI application that shows the current system time a
    ```bash
    javac SpaceDigitalClock.java
 
+---   
+
 ## 📚 Concepts Used
 
 - Java Swing GUI
@@ -47,6 +49,8 @@ The Digital Clock is a Java GUI application that shows the current system time a
 - Date and Time formatting
 - Event handling
 - Object-Oriented Programming (OOP)
+
+--- 
 
 ##✨ Future Improvements
 
@@ -57,3 +61,8 @@ The Digital Clock is a Java GUI application that shows the current system time a
 - Add theme switch (dark/light mode)
 - Add stopwatch and timer modes
 
+---
+
+## Author 
+
+Developed by Monty
