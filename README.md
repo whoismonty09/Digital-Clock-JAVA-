@@ -1,4 +1,4 @@
-# 🌌 Space Themed Digital Clock (Java)
+# 🌌 Digital Clock (Java)
 
 A futuristic Digital Clock application built using Java Swing.  
 It displays real-time clock and full date with a space-inspired dark theme and neon colors.
@@ -7,7 +7,7 @@ It displays real-time clock and full date with a space-inspired dark theme and n
 
 ## 📌 Description
 
-The Space Themed Digital Clock is a Java GUI application that shows the current system time and date in a visually attractive space-style interface. The clock updates every second automatically using a Timer and follows Object-Oriented Programming principles.
+The Digital Clock is a Java GUI application that shows the current system time and date in a visually attractive space-style interface. The clock updates every second automatically using a Timer and follows Object-Oriented Programming principles.
 
 ---
 
@@ -39,3 +39,12 @@ The Space Themed Digital Clock is a Java GUI application that shows the current 
 3. Compile the program:
    ```bash
    javac SpaceDigitalClock.java
+
+## 📚 Concepts Used
+
+- Java Swing GUI
+- Timer
+- Date and Time formatting
+- Event handling
+- Object-Oriented Programming (OOP)
+✨ Future Improvements
